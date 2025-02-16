@@ -1,0 +1,22 @@
+questions_and_answers = [
+    {"Is Python a programming language?": True},
+    {"Can you run Python code in a web browser?": False},
+    {"Is the Earth flat?": False},
+    {"Does the sun rise in the east?": True},
+    {"Is 2 + 2 equal to 5?": False},
+    {"Do cats typically bark?": False},
+    {"Is HTML used to create web pages?": True},
+    {"Can humans breathe underwater without equipment?": False},
+    {"Is water essential for human life?": True},
+    {"Is 10 a prime number?": False},
+    {"Can you find a unicorn in the real world?": False},
+    {"Is Paris the capital of France?": True},
+    {"Is the Pacific Ocean the largest ocean on Earth?": True},
+    {"Do birds fly?": True},
+    {"Is 3 a prime number?": True},
+    {"Can you program in JavaScript using Python?": False},
+    {"Is the Great Wall of China visible from space?": True},
+    {"Is 100 divisible by 3 without a remainder?": False},
+    {"Do fish live in water?": True},
+    {"Is chocolate made from cocoa beans?": True}
+]
